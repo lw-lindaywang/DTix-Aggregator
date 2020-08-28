@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:-Ruby Thursdays Calendar
+VERSION:2.0
+CALSCALE:GREGORIAN
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+SUMMARY:JAG - Modern Romance
+DESCRIPTION:The Jazz Arts Group performance of Modern Romance will be held at the Southern Theatre. Tickets are in section Bal2 L & R. All sales final, no refunds. Tickets are all sold out
+DTSTART:20200221T200000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mad River Mountain Lift Passes
+DESCRIPTION:Mad River Mountain Lift Passes can be used anytime. Passes are good for the entire 2019-2020 season. Last registration is January 26-27, 2020!
+DTSTART;VALUE=DATE:2020223
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mad River Mountain Tubing Passes
+DESCRIPTION:Mad River Mountain Tubing Passes can be used anytime, good for a 3-hour session. Passes are good for the entire 2019-2020 season. Tickets are sold out
+DTSTART;VALUE=DATE:2020223
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mad River Mountain Rental Passes
+DESCRIPTION:Mad River Mountain Rental Passes can be used anytime, does not include helmet. Passes are good for the entire 2019-2020 season. Tickets are all sold out
+DTSTART;VALUE=DATE:2020223
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Columbus Blue Jackets vs. Vancouver Canucks
+DESCRIPTION:Columbus Blue Jackets vs. Vancouver Canucks game will be held at Nationwide Arena. Tickets are in sections 121 & 122. All sales final, no refunds.
+DTSTART:202031T197:0000Z
+END:VEVENT
+END:VCALENDAR

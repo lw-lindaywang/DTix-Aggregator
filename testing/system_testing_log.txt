@@ -1,0 +1,25 @@
+System testing 
+Documentation by Anish Anand
+Physical Testing by Priya Perali
+Test1: Startup
+First, the program is opened and all of the d-tix events are shown with the title and image of each, page is scrollable, 
+able to select/unselect different events.
+
+Test2: Filter options
+Click on File and then Filter, displays filter selections (type of event, date range, price range) 
+If a price range is entered,  there is error checking
+the min price must be smaller than the max as a message states
+and the max must be larger than the min as a message states with the according inputs
+if a non-number value is entered, error checking exists as well.
+
+Test3: Clicking on filter
+
+Test4: Sending emails
+Click on File and then 'Send Events to Calendar'
+A popup window opens and if an email is invalid, an error message pops up
+An email was entered 'perali2000@gmail.com' and submit with the GUI, and an email was confirmed to send with the .ics file as expected
+The .ics file was downloaded via the email client gmail, and file's contents are as expected.
+
+Test4: Closing
+Click on File and then End Program, and the window closes as intended.
+
