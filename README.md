@@ -1,23 +1,8 @@
-# Project 3
+# DTix Aggregator
 ### Web Scraping
 
-### Roles
-* Overall Project Manager: Priya Perali
-* Coding Manager: Sai Chatla
-* Testing Manager: Linda Wang
-* Documentation: Anish Anand
-
-### Contributions
-* Sai Chatla - Scrape event information for all events and developed mailing system and wrote method contracts
-* Linda Wang - Scrape for events within a date range, worked on GUI, integrated GUI with command line
-* Anish Anand - Scrape for event details and extra filtered detail (event sold out status)
-* Priya Perali - Scrape multiple pages, worked on generation of icalendar file from events, and parsed for images of events
-* Jeff Valli - Scrape for event details, open external links from dtix site
-
-No pair programming was done.
-
 ### Dependencies
-To run this game, you will need FXRuby (https://github.com/larskanis/fxruby, http://index-of.es/Ruby/FXRuby%20-%20Create%20Lean%20and%20Mean%20GUIs%20with%20Ruby%20(2008).pdf) and Mail to run the program.  Also, need RSpec (https://rspec.info/) to run the test cases.
+To run this program, you will need FXRuby (https://github.com/larskanis/fxruby, http://index-of.es/Ruby/FXRuby%20-%20Create%20Lean%20and%20Mean%20GUIs%20with%20Ruby%20(2008).pdf) and Mail to run the program.  Also, need RSpec (https://rspec.info/) to run the test cases.
 
 To install FXRuby, run the following commands from the project directory:
 ```
