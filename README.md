@@ -1,5 +1,8 @@
 # DTix Aggregator
-### Web Scraping
+
+### What is this?
+
+A program that web scrapes all of the DTix (discounted tickets prices) events for OSU students and displays them in a user-friendly UI. Users can quickly and easily view event details, pricing, etc. and select events to export as a calendar file.
 
 ### Dependencies
 To run this program, you will need FXRuby (https://github.com/larskanis/fxruby, http://index-of.es/Ruby/FXRuby%20-%20Create%20Lean%20and%20Mean%20GUIs%20with%20Ruby%20(2008).pdf) and Mail to run the program.  Also, need RSpec (https://rspec.info/) to run the test cases.
